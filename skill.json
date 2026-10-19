@@ -1,0 +1,9 @@
+{
+  "name": "genpark-openapi-spec-to-mcp-tool-synthesizer-skill",
+  "version": "1.0.1",
+  "description": "Inspect OpenAPI 3.0 specs and synthesize schema-compliant Model Context Protocol tool declarations with input verification",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
